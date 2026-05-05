@@ -4,7 +4,7 @@
 ☕ Turning coffee into commits and bugs into “features”</BR>
 🛠️ I build things that (mostly) work</BR>
 🤓 Still pretending I understood the docs the first time</BR>
-CONNECT WITH ME ON [INSTAGRAM] https://www.instagram.com/iharshjainn/
+CONNECT WITH ME ON [INSTAGRAM] https://www.instagram.com/iharshjainn?igsh=NmlzdmF4d3c5ZW0x
 
 
 ## 🌐 Socials:
