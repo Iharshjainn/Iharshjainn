@@ -1,9 +1,9 @@
 ## Hi, I am Harsh Jain
 
-🎓 CS student at JECRC University
-☕ Turning coffee into commits and bugs into “features”
-🛠️ I build things that (mostly) work
-🤓 Still pretending I understood the docs the first time
+🎓 CS student at JECRC University</BR>
+☕ Turning coffee into commits and bugs into “features”</BR>
+🛠️ I build things that (mostly) work</BR>
+🤓 Still pretending I understood the docs the first time</BR>
 CONNECT WITH ME ON [INSTAGRAM] https://www.instagram.com/iharshjainn/
 
 
