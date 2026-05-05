@@ -1,9 +1,10 @@
 ## Hi, I am Harsh Jain
 
-CSE STUDENT AT JECRC UNIVERSITY.</br>
-I LOVE TO CODE WITH MY CUP OF COFFEE.</br>
-LEARNING PYTHON > WEBDEV > DATA SCIENCE.
-Connec me ON [INSTAGRAM] https://www.instagram.com/iharshjainn/
+🎓 CS student at JECRC University
+☕ Turning coffee into commits and bugs into “features”
+🛠️ I build things that (mostly) work
+🤓 Still pretending I understood the docs the first time
+CONNECT WITH ME ON [INSTAGRAM] https://www.instagram.com/iharshjainn/
 
 
 ## 🌐 Socials:
